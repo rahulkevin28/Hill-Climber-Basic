@@ -22,5 +22,3 @@ Future Improvements:
 1. Adding a fuel mechanic to increase challenge and strategy.
 2. Implementing multiple levels with different difficulty settings.
 3. Adding various vehicles and upgrade options.
-
-Feel free to contribute by adding new features or optimizing the existing gameplay!
